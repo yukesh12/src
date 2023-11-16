@@ -9,7 +9,7 @@ function App() {
 
         </h1>
         <p>
-          welcome to amplpiy
+          welcome to computer science and enginnering 
         </p>
       </body>
     </html>
